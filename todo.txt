@@ -1,2 +1,3 @@
 Task 1: Learn Git
 Task2 : Practicing git diff
+Task 3: forgot to do step 2 in correct manner
